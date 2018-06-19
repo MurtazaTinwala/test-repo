@@ -23,7 +23,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ### Amazon Reviews
 
-![Amazon reviews](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/Amazon.png)
+![Amazon reviews](https://github.com/techsachinkumar/test-repo/blob/master/Amazon.png)
 
 You can purchase this book at Amazon, [Angular 6 for Enterprise-Ready Web Applications](https://www.amazon.com/dp/1786462907)
 
