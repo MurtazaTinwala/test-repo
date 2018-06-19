@@ -25,7 +25,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ![Amazon reviews](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/Amazon.png)
 
-You can purchase this book at Amazon, [R Data Structures and Algorithms](https://www.amazon.com/dp/1786465159)
+You can purchase this book at Amazon, [Angular 6 for Enterprise-Ready Web Applications](https://www.amazon.com/dp/1786462907)
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
