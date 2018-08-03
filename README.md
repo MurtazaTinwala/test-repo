@@ -62,7 +62,8 @@ With the following software and hardware list you can run all code files present
 
 ## Code in Action
 
-Click on the following link to see the Code in Action: www.youtube.com
+Click on the following link to see the Code in Action:
+[Placeholder link](www.youtube.com)
 
 ### Related products <Other books you may enjoy>
 * Hands-on Full Stack Development with Angular 5 and Firebase [[Packt]](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735) [[Amazon]](https://www.amazon.com/dp/178829873X)
