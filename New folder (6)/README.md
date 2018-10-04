@@ -23,7 +23,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter01.
 
 The code will look like the following:
 ```
@@ -58,7 +58,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/CMakeCookbook_ColorImages.pdf).
 
-### Related products <Other books you may enjoy>
+### Related products
 * Mastering Qt 5 - Second Edition [[Packt]](https://www.packtpub.com/web-development/mastering-qt-5-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788995399) [[Amazon]](https://www.amazon.com/dp/1788995392)
 
 * Learn QT 5 [[Packt]](https://www.packtpub.com/web-development/learn-qt-5?utm_source=github&utm_medium=repository&utm_campaign=9781788478854) [[Amazon]](https://www.amazon.com/dp/1788478851)
