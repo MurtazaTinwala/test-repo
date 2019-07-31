@@ -73,6 +73,7 @@ Click on the following link to see the Code in Action:
 * Page 12 (line 2): *tap* should be *pat*
 * Page 229 (Figure 2): 
 <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05684_cover.png" height="256px" align="center"> should be <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789136364-original.png" height="256px" align="center">
+* Page 222 (line 10): **inline.cs is used for updating the styles** _should be_ **styles.cs is used for updating the styles**
 
 ### Related products <Other books you may enjoy>
 * Hands-on Full Stack Development with Angular 5 and Firebase [[Packt]](https://www.packtpub.com/application-development/hands-full-stack-development-angular-5-and-firebase?utm_source=github&utm_medium=repository&utm_campaign=9781788298735) [[Amazon]](https://www.amazon.com/dp/178829873X)
