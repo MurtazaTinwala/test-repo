@@ -66,7 +66,7 @@ Click on the following link to see the Code in Action:
 
 [Placeholder link](www.youtube.com)
 
-# Errata
+## Errata
 
 * Page 19 (line 4): **abc** should be **xyz**
 * Page 119 (line 11): ~~lmn~~ should be **pqr**
