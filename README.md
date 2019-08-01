@@ -66,14 +66,11 @@ Click on the following link to see the Code in Action:
 
 [Placeholder link](www.youtube.com)
 
-## Errata
 
-* Page 19 (line 4): **abc** should be **xyz**
-* Page 119 (line 11): ~~lmn~~ should be **pqr**
-* Page 12 (line 2): *tap* should be *pat*
+## Errata
+* Page 9 (Paragraph 1, line 4): **abc** _should be_ **xyz**
 * Page 229 (Figure 2): 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05684_cover.png" height="256px" align="center"> should be <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789136364-original.png" height="256px" align="center">
-* Page 222 (line 10): **inline.cs is used for updating the styles** _should be_ **styles.cs is used for updating the styles**
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05684_cover.png" height="256px" align="center"> _should be_ <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789136364-original.png" height="256px" align="center">
 * Page 222 (line 10): **`inline.cs` is used for updating the styles** _should be_ **`styles.cs` is used for updating the styles**
 
 ### Related products <Other books you may enjoy>
